@@ -28,3 +28,6 @@
 [submodule "r2dbc.github.io"]
 	path = r2dbc.github.io
 	url = https://github.com/r2dbc/r2dbc.github.io.git
+[submodule "spring-data-r2dbc"]
+	path = spring-data-r2dbc
+	url = https://github.com/spring-projects/spring-data-r2dbc.git
