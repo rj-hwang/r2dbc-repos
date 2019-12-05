@@ -25,3 +25,6 @@
 [submodule "r2dbc-artwork"]
 	path = r2dbc-artwork
 	url = https://github.com/r2dbc/r2dbc-artwork.git
+[submodule "r2dbc.github.io"]
+	path = r2dbc.github.io
+	url = https://github.com/r2dbc/r2dbc.github.io.git
