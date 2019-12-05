@@ -16,3 +16,6 @@
 [submodule "r2dbc-proxy"]
 	path = r2dbc-proxy
 	url = https://github.com/r2dbc/r2dbc-proxy.git
+[submodule "r2dbc-pool"]
+	path = r2dbc-pool
+	url = https://github.com/r2dbc/r2dbc-pool.git
