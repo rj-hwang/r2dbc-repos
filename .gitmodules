@@ -31,3 +31,6 @@
 [submodule "spring-data-r2dbc"]
 	path = spring-data-r2dbc
 	url = https://github.com/spring-projects/spring-data-r2dbc.git
+[submodule "spring-boot-r2dbc"]
+	path = spring-boot-r2dbc
+	url = https://github.com/spring-projects-experimental/spring-boot-r2dbc.git
