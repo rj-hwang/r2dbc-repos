@@ -22,3 +22,6 @@
 [submodule "r2dbc-client"]
 	path = r2dbc-client
 	url = https://github.com/r2dbc/r2dbc-client.git
+[submodule "r2dbc-artwork"]
+	path = r2dbc-artwork
+	url = https://github.com/r2dbc/r2dbc-artwork.git
