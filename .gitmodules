@@ -19,3 +19,6 @@
 [submodule "r2dbc-pool"]
 	path = r2dbc-pool
 	url = https://github.com/r2dbc/r2dbc-pool.git
+[submodule "r2dbc-client"]
+	path = r2dbc-client
+	url = https://github.com/r2dbc/r2dbc-client.git
