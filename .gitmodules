@@ -7,3 +7,6 @@
 [submodule "r2dbc-postgresql"]
 	path = r2dbc-postgresql
 	url = https://github.com/r2dbc/r2dbc-postgresql.git
+[submodule "r2dbc-mssql"]
+	path = r2dbc-mssql
+	url = https://github.com/r2dbc/r2dbc-mssql.git
