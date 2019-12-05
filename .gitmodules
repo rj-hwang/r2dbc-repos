@@ -1,3 +1,6 @@
 [submodule "r2dbc-spi"]
 	path = r2dbc-spi
 	url = https://github.com/r2dbc/r2dbc-spi.git
+[submodule "r2dbc-h2"]
+	path = r2dbc-h2
+	url = https://github.com/r2dbc/r2dbc-h2.git
