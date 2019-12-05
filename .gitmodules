@@ -10,3 +10,6 @@
 [submodule "r2dbc-mssql"]
 	path = r2dbc-mssql
 	url = https://github.com/r2dbc/r2dbc-mssql.git
+[submodule "r2dbc-bom"]
+	path = r2dbc-bom
+	url = https://github.com/r2dbc/r2dbc-bom.git
