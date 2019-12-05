@@ -34,3 +34,6 @@
 [submodule "spring-boot-r2dbc"]
 	path = spring-boot-r2dbc
 	url = https://github.com/spring-projects-experimental/spring-boot-r2dbc.git
+[submodule "r2dbc-mysql"]
+	path = r2dbc-mysql
+	url = https://github.com/mirromutth/r2dbc-mysql.git
