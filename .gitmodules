@@ -37,3 +37,6 @@
 [submodule "r2dbc-mysql"]
 	path = r2dbc-mysql
 	url = https://github.com/mirromutth/r2dbc-mysql.git
+[submodule "mariadb-connector-r2dbc"]
+	path = mariadb-connector-r2dbc
+	url = https://github.com/mariadb-corporation/mariadb-connector-r2dbc.git
